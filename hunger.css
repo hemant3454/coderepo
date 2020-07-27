@@ -1,0 +1,183 @@
+.navbar-brand
+{
+  border-radius: 20px;
+  font-family: Abril Fatface;
+}
+.im
+{
+  height:40%;
+  width: 45%;
+  position: relative;
+  left:27%;
+}
+.img
+{
+  height:40%;
+  width: 45%;
+  position: relative;
+  left:27%;
+}
+.d
+{
+  height:670px;
+  width: 100%;
+  margin-top: 10px;
+}
+.div
+{
+  background-color:#E0FFFF;
+  margin: 100px;
+}
+.ic
+{
+  margin-left: 50px;
+}
+.df
+{
+  margin-left: 20px;
+  font-family:Abril Fatface;
+}
+.icon
+{
+  margin-left: 160px;
+}
+.l
+{
+  margin: 20px;
+  font-family:Lobster,cursive;
+  font-size: 1.1rem;
+}
+.k
+{
+  margin: 100px;
+}
+#contact
+{
+  background-color: #B3B6B7;
+}
+.con
+{
+  margin-left: 30px;
+}
+.logo
+{
+  height: 55px;
+  width:65px;
+  border-radius: 100px;
+}
+.contri
+{
+  position:absolute;
+  font-size: 2rem;
+  font-family:Abril Fatface;
+  color:white;
+  top:80px;
+  left:110px;
+}
+.bt
+{
+  position: relative;
+  left:40%;
+  top:210px;
+}
+.google
+{
+  height:65px;
+  width: 70px;
+
+}
+.pp
+{
+  height: 65px;
+  width: 70px;
+  border-radius: 50px;
+}
+.nav-link
+{
+  font-family: Abril Fatface;
+}
+.mar
+{
+  font-family: Grenze Gotisch;
+}
+.payment
+{
+  font-family: Abril Fatface;
+}
+.long
+{
+  font-family:Lobster,cursive;
+  font-size: 1.2rem;
+}
+.kkk
+{
+  font-family: Grenze Gotisch,cursive;
+}
+.x
+{
+  font-style: oblique;
+}
+.div
+{
+  margin: 100px;
+}
+.v
+{
+color: white;
+}
+.vid
+{
+  border-radius:70px;
+}
+.hii
+{
+  color: white;
+
+}
+.ins
+{
+  height: 60px;
+  width: 60px;
+border-radius: 50px;
+margin-right: 5px;
+}
+.wha
+{
+  height:35px;
+  width: 35px;
+  border-radius: 50px;
+  margin-right: 15px;
+}
+.cal
+{
+  height: 35px;
+  width: 35px;
+  border-radius: 50px;
+}
+.mmm
+{
+  color: white;
+}
+.map
+{
+  height:350px;
+  width:380px;
+
+}
+.style
+{
+  height:600px;
+  width:410px;
+  border-radius: 100px;
+
+}
+.write
+{
+  color:white;
+  font-family: Abril Fatface;
+}
+.sss
+{
+  color:white;
+  font-family: Grenze Gotisch,cursive;
+}

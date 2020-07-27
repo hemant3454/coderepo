@@ -1,0 +1,59 @@
+.x
+{
+  margin: 10px;
+  background-color: white;
+  font-family: Righteous, cursive;
+}
+.y
+{
+  size:"8";
+  width:100%;
+  background-color: grey;
+
+}
+.lg
+{
+  height: 55px;
+  width: 65px;
+  border-radius: 100px;
+}
+.foot
+{
+
+  width: 100%;
+  background-color:#E8DAEF ;
+}
+.eridicate
+{
+  font-family: Abril Fatface;
+}
+.te
+{
+  font-family: Abril Fatface;
+}
+.z
+{
+  font-family: Abril Fatface;
+}
+.bit
+{
+  font-family: Abril Fatface;
+  color: white;
+}
+.fg
+{
+  font-family: Lobster,cursive;
+}
+.call
+{
+  height:35px;
+  width:35px;
+  border-radius: 20px;
+  margin-right:15px;
+}
+.mail
+{
+  height:35px;
+  width:35px;
+  border-radius: 20px;
+}
